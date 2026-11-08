@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/vault-operator/commit/14b4bb942f40564b4e2512ee039ba0f745ac949b",
       "git:hexsha": "14b4bb942f40564b4e2512ee039ba0f745ac949b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T19:01:14.810174+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/vault-operator/commit/482ae06240f5df6388fb2c8c00b1f29e4e8357b9",
