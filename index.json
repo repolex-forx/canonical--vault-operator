@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "vault-operator",
+  "versions": [
+    {
+      "commit": "14b4bb942f40564b4e2512ee039ba0f745ac949b",
+      "tag": "",
+      "parsed_at": "2026-11-08T19:01:14.811131+00:00"
+    }
+  ]
+}
